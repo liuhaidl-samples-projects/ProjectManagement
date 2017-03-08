@@ -4,7 +4,7 @@
  - 分析现在比较流行的app,然后基于模版工程开发出某一领域的app,如社交领域，模仿微信。并提交该app到appstore
  
 ##ionic学习资源
-- http://www.cnblogs.com/greyzeng/p/5529153.html //Hello World
+- <a href="http://www.cnblogs.com/greyzeng/p/5529153.html" target="_blank">Hello World</a>
 - http://www.cnblogs.com/greyzeng/p/5532323.html //New Page
 - http://www.cnblogs.com/greyzeng/p/5536298.html //Customized Component
 - http://www.cnblogs.com/greyzeng/p/5538630.html //Pipe
