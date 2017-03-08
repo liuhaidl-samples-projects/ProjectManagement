@@ -5,13 +5,13 @@
  
 ##ionic学习资源
 - <a href="http://www.cnblogs.com/greyzeng/p/5529153.html" target="_blank">Hello World</a>
-- http://www.cnblogs.com/greyzeng/p/5532323.html //New Page
-- http://www.cnblogs.com/greyzeng/p/5536298.html //Customized Component
-- http://www.cnblogs.com/greyzeng/p/5538630.html //Pipe
-- http://www.cnblogs.com/greyzeng/p/5544479.html //*号
-- http://www.cnblogs.com/greyzeng/p/5547646.html //Provider
-- http://www.cnblogs.com/greyzeng/p/5551535.html //Navigator
-- http://www.cnblogs.com/greyzeng/p/5554610.html //Input
-- http://www.cnblogs.com/greyzeng/p/5557947.html //Local Storage& SQLite
-- http://www.cnblogs.com/greyzeng/p/5559927.html //访问本地设备
-- http://www.cnblogs.com/greyzeng/p/5575843.html //扫描二维码
+- <a href="http://www.cnblogs.com/greyzeng/p/5532323.html" target="_blank">新页面</a>
+- <a href="http://www.cnblogs.com/greyzeng/p/5536298.html" target="_blank">客户化组建</a>
+- <a href="http://www.cnblogs.com/greyzeng/p/5538630.html" target="_blank">Pipe</a>
+- <a href="http://www.cnblogs.com/greyzeng/p/5538630.html" target="_blank">*号</a>
+- <a href="http://www.cnblogs.com/greyzeng/p/5547646.html" target="_blank">Provider</a>
+- <a href="http://www.cnblogs.com/greyzeng/p/5551535.html" target="_blank">Navigator</a>
+- <a href="http://www.cnblogs.com/greyzeng/p/5554610.html" target="_blank">Input</a>
+- <a href="http://www.cnblogs.com/greyzeng/p/5557947.html" target="_blank">Local Storage& SQLite</a>
+- <a href="http://www.cnblogs.com/greyzeng/p/5559927.html" target="_blank">访问本地设备</a>
+- <a href="http://www.cnblogs.com/greyzeng/p/5575843.html" target="_blank">扫描二维码</a>
