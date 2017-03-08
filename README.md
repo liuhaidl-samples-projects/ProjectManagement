@@ -15,3 +15,5 @@
 - <a href="http://www.cnblogs.com/greyzeng/p/5557947.html" target="_blank">Local Storage& SQLite</a>
 - <a href="http://www.cnblogs.com/greyzeng/p/5559927.html" target="_blank">访问本地设备</a>
 - <a href="http://www.cnblogs.com/greyzeng/p/5575843.html" target="_blank">扫描二维码</a>
+- <a href="http://blog.ionic.io/10-minutes-with-ionic-2-adding-pages-and-navigation/" target="_blank">10 Minutes with Ionic 2: Adding Pages and Navigation</a>
+
