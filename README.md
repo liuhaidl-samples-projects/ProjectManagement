@@ -1,7 +1,8 @@
 #这个github项目是用于项目管理
 ## 2017年的主要目标
- - 创建一个可以重用的模版工程
-
+ - 创建一个可以重用的模版工程app,该工程app需要包含重要的功能特性，如扫描2维码，拍照，地图，蓝牙，第3方支付等
+ - 分析现在比较流行的app,然后基于模版工程开发出某一领域的app,如社交领域，模仿微信。并提交该app到appstore
+ 
 ##ionic学习资源
 - http://www.cnblogs.com/greyzeng/p/5529153.html //Hello World
 - http://www.cnblogs.com/greyzeng/p/5532323.html //New Page
