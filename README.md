@@ -24,4 +24,5 @@
 - <a href="http://www.cnblogs.com/greyzeng/p/5559927.html" target="_blank">访问本地设备</a>
 - <a href="http://www.cnblogs.com/greyzeng/p/5575843.html" target="_blank">扫描二维码</a>
 - <a href="http://blog.ionic.io/10-minutes-with-ionic-2-adding-pages-and-navigation/" target="_blank">10 Minutes with Ionic 2: Adding Pages and Navigation</a>
-- <a href="http://blog.csdn.net/u011537073/article/details/60580111" target="_blank">使用ionic2开发一个登录功能 </a>
+- <a href="http://blog.csdn.net/u011537073/article/details/60580111" target="_blank">使用ionic2开发一个登录功能</a>
+- <a href="http://blog.csdn.net/u011537073/article/details/60984358" target="_blank"> ionic2的返回按钮修改和tab上下显示的翻译</a>
