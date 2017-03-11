@@ -27,3 +27,4 @@
 - <a href="http://blog.csdn.net/u011537073/article/details/60580111" target="_blank">使用ionic2开发一个登录功能</a>
 - <a href="http://blog.csdn.net/u011537073/article/details/60984358" target="_blank">ionic2的返回按钮修改和tab上下显示的翻译</a>
 - <a href="http://blog.csdn.net/u011537073/article/details/61004203" target="_blank">ionic2 中隐藏子页面tabs选项卡的三种方法</a>
+- <a href="http://blog.csdn.net/u011537073/article/details/61416479" target="_blank">ionic2文档整理</a>
