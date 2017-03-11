@@ -29,4 +29,5 @@
 - <a href="http://blog.csdn.net/u011537073/article/details/61004203" target="_blank">ionic2 中隐藏子页面tabs选项卡的三种方法</a>
 - <a href="http://blog.csdn.net/u011537073/article/details/61416479" target="_blank">ionic2文档整理</a>
 - <a href="http://blog.csdn.net/u011537073/article/details/61416878" target="_blank">ionic2 自学须知的基本知识点!</a>
-- <a href="http://blog.csdn.net/u011537073/article/details/61429881" target="_blank"> ionic开发——利用localStorage存储用户名和密码 </a>
+- <a href="http://blog.csdn.net/u011537073/article/details/61429881" target="_blank">ionic开发——利用localStorage存储用户名和密码 </a>
+- <a href="http://blog.csdn.net/u011537073/article/details/61430355" target="_blank"> AngularJS（4）——ionic 框架下实现 Localstorage本地存储</a>
