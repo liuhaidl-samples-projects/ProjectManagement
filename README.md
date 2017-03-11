@@ -28,3 +28,4 @@
 - <a href="http://blog.csdn.net/u011537073/article/details/60984358" target="_blank">ionic2的返回按钮修改和tab上下显示的翻译</a>
 - <a href="http://blog.csdn.net/u011537073/article/details/61004203" target="_blank">ionic2 中隐藏子页面tabs选项卡的三种方法</a>
 - <a href="http://blog.csdn.net/u011537073/article/details/61416479" target="_blank">ionic2文档整理</a>
+- <a href="http://blog.csdn.net/u011537073/article/details/61416878" target="_blank">ionic2 自学须知的基本知识点!</a>
