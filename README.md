@@ -32,3 +32,4 @@
 - <a href="http://blog.csdn.net/u011537073/article/details/61429881" target="_blank">ionic开发——利用localStorage存储用户名和密码 </a>
 - <a href="http://blog.csdn.net/u011537073/article/details/61430355" target="_blank">AngularJS（4）——ionic 框架下实现 Localstorage本地存储</a>
 - <a href="http://blog.csdn.net/u011537073/article/details/61928322" target="_blank">使用Ionic2开发Todo应用</a>
+- <a href="http://stackoverflow.com/questions/36696749/ionic-2-local-storage-not-working-as-expected" target="_blank">ionic2 local storage not working as expected</a>
