@@ -34,3 +34,5 @@
 - <a href="http://blog.csdn.net/u011537073/article/details/61928322" target="_blank">使用Ionic2开发Todo应用</a>
 - <a href="http://stackoverflow.com/questions/36696749/ionic-2-local-storage-not-working-as-expected" target="_blank">ionic2 local storage not working as expected</a>
 - <a href="http://blog.csdn.net/u011537073/article/details/61939223" target="_blank">ionic2页面回传值，关于Typescript的Promise承诺</a>
+- <a href="http://blog.csdn.net/u011537073/article/details/62060294" target="_blank">使用ionic2接入百度地图</a>
+- <a href="http://blog.csdn.net/u011537073/article/details/62063182" target="_blank">百度地图API开发指南</a>
